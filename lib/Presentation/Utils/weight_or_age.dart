@@ -1,0 +1,1 @@
+enum WeightOrAge{weight,age}
